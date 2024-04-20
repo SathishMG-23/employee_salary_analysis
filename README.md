@@ -51,9 +51,13 @@ Gender v/s Overtime
 Longevity Analysis
  - 'POL', 'FRS', 'SHF', 'HRC', 'DGS' are the departments with highest longevity pay.
  - Department 'HRC', with only 11 employees on board, is the 4th highest longevity paying department.
- -'ECM','OGM', 'OFR', 'MPB' departments do not pay any longevity pay.
+ - 'ECM','OGM', 'OFR', 'MPB' departments do not pay any longevity pay.
 
 Base Salary v/s Overtime Pay v/s Longevity Pay
- There is a slight upward trend between the data points in both the cases of Overtime Pay, and Longevity Pay, indicating that employees with higher base salary tends to receive higher Overtime Pay or Longevity Pay.
+  There is a slight upward trend between the data points in both the cases of Overtime Pay, and Longevity Pay, indicating that employees with higher base salary tends to receive higher Overtime Pay or Longevity Pay.
+
+ 
+ 
+
 
 #Thank You
