@@ -1,4 +1,4 @@
-# employee_salary_analysis
+# Employee_Salary_Analysis
 
 Sathish |
 Data Analyst |
